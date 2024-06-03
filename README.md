@@ -1,1 +1,1 @@
-# k8s-deployment-manager
+# k8s-practice
