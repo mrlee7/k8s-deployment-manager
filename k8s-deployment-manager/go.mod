@@ -2,8 +2,6 @@ module k8s-deployment-manager
 
 go 1.22.0
 
-toolchain go1.22.3
-
 require (
 	github.com/pkg/errors v0.9.1
 	k8s.io/api v0.30.1
